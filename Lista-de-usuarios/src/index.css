@@ -61,7 +61,7 @@ body {
   text-align: center;
   min-height: 100svh;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   box-sizing: border-box;
   justify-content: center;
   align-items: center;

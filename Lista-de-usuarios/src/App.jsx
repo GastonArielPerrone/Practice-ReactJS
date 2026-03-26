@@ -1,6 +1,6 @@
 import './App.css'
-import UserCard from './components/UserCard';
 import Header from './components/Header';
+import Main from './components/Main';
 
 function App() {
 
@@ -30,18 +30,7 @@ function App() {
   return (
     <>
     <Header />
-    <div className="cards-container">
-      {users.map((user, index) => (
-        <UserCard
-          key={index}
-          name={user.name}
-          lastName={user.lastName}
-          email={user.email}
-          avatar={user.avatar}
-          profession={user.profession}
-        />
-      ))}
-    </div>
+    <Main users={users} />
   </>
   );
 }
