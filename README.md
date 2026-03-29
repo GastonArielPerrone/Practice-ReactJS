@@ -20,3 +20,6 @@
 ## Contenidos desarrollados
 
 ## Ejercicios
+
+| Titulo de Ejercicio | Consignas | Temas desarrollados |
+| ------------------- | --------- | ------------------- |
