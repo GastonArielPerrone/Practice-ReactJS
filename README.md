@@ -2,12 +2,12 @@
 
 # Índice
 
-1. Introducción
-2. Meta / Objetivos
-3. Créditos
-4. Contenidos desarrollados
-5. Verificaciones / Validaciones
-6. Ejercicios
+1. [Introducción](#introducción)
+2. [Meta / Objetivos](#meta--objetivos)
+3. [Créditos](#créditos)
+4. [Contenidos desarrollados](#contenidos-desarrollados)
+5. [Verificaciones / Validaciones](#verificaciones--validaciones)
+6. [Ejercicios](#ejercicios)
 
 ## Introducción
 
