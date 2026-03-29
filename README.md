@@ -23,3 +23,4 @@
 
 | Titulo de Ejercicio | Consignas | Temas desarrollados |
 | ------------------- | --------- | ------------------- |
+| Lista de Usuarios | Crear componentes Header, Main y UserCard para mostrar <br> una lista de tarjetas de cada usuario. | - Desestructuración <br> - Export default <br> - ArrayMethod: .map() <br> - Paso de props |
