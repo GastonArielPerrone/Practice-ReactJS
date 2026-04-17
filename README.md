@@ -47,7 +47,7 @@ Cada ejercicio está en su propia carpeta numerada y es un proyecto independient
 
 Para ejecutar las pruebas: `npm run test`.
 
-## Ejercicios
+## Ejercicios 
 
 | Titulo de Ejercicio | Consignas | Temas desarrollados |
 | ------------------- | --------- | ------------------- |
@@ -58,3 +58,7 @@ Para ejecutar las pruebas: `npm run test`.
 | Suma, Resta, Multiplicación, División | Implementar una calculadora básica utilizando funciones importadas de un módulo utils. | - Import/Export de módulos <br> - Funciones JavaScript <br> - JSX expressions |
 | Saludo | Crear un componente que muestre un saludo personalizado y un número aleatorio. | - Import named exports <br> - Funciones JavaScript <br> - JSX |
 | Contador | Implementar un contador interactivo con botones para incrementar y decrementar. | - Hook useState <br> - Eventos onClick <br> - Estado en React |
+
+
+> [!NOTE]
+> Por ahora esto ¡no lo es todo! A medida de avanzar con el curso se irán añadiendo más ejercicios para abordar cada tema.
