@@ -1,8 +1,12 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import './Contador.css';
 
 export const Contador = () => {
     const [contador, setContador] = useState(0)
+
+    useEffect(() => {
+        console.log('El contador ha cambiado:', contador);
+    },[contador]);
 
     const incrementar = () => {
         setContador(contador + 1)

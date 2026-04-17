@@ -2,12 +2,14 @@
 
 # Índice
 
-1. [Introducción](#introducción)
-2. [Meta / Objetivos](#meta--objetivos)
-3. [Créditos](#créditos)
-4. [Contenidos desarrollados](#contenidos-desarrollados)
-5. [Verificaciones / Validaciones](#verificaciones--validaciones)
-6. [Ejercicios](#ejercicios)
+- [Índice](#índice)
+  - [Introducción](#introducción)
+  - [Meta / Objetivos](#meta--objetivos)
+  - [Créditos](#créditos)
+  - [Verificaciones / Validaciones](#verificaciones--validaciones)
+  - [Contenidos desarrollados](#contenidos-desarrollados)
+  - [Cómo ejecutar los ejercicios](#cómo-ejecutar-los-ejercicios)
+  - [Ejercicios](#ejercicios)
 
 ## Introducción
 
@@ -57,7 +59,7 @@ Para ejecutar las pruebas: `npm run test`.
 | Lista de Productos | Crear componentes ProductList y ProductItem para mostrar una lista de productos. | - Componentes funcionales <br> - Props <br> - ArrayMethod: .map() |
 | Suma, Resta, Multiplicación, División | Implementar una calculadora básica utilizando funciones importadas de un módulo utils. | - Import/Export de módulos <br> - Funciones JavaScript <br> - JSX expressions |
 | Saludo | Crear un componente que muestre un saludo personalizado y un número aleatorio. | - Import named exports <br> - Funciones JavaScript <br> - JSX |
-| Contador | Implementar un contador interactivo con botones para incrementar y decrementar. | - Hook useState <br> - Eventos onClick <br> - Estado en React |
+| Contador | Implementar un contador interactivo con botones para incrementar y decrementar. | - Hook useState <br> - Hook useEffect <br> - Eventos onClick <br> - Estado en React |
 
 
 > [!NOTE]
