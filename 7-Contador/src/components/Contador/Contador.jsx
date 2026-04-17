@@ -1,8 +1,7 @@
-import './Contador.css'
-import { useState } from 'react'
+import { useState } from 'react';
+import './Contador.css';
 
 export const Contador = () => {
-
     const [contador, setContador] = useState(0)
 
     const incrementar = () => {
