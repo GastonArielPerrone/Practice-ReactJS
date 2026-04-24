@@ -60,7 +60,7 @@ Para ejecutar las pruebas: `npm run test`.
 | Suma, Resta, Multiplicación, División | Implementar una calculadora básica utilizando funciones importadas de un módulo utils. | - Import/Export de módulos <br> - Funciones JavaScript <br> - JSX expressions |
 | Saludo | Crear un componente que muestre un saludo personalizado y un número aleatorio. | - Import named exports <br> - Funciones JavaScript <br> - JSX |
 | Contador | Implementar un contador interactivo con botones para incrementar y decrementar. | - Hook useState <br> - Hook useEffect <br> - Eventos onClick <br> - Estado en React |
-| 8-Form-de-Productos | Crear un formulario de productos para agregar a una BBDD local. | - useState <br> - onChange <br> - Manejo de estados (set) |
+| Form-de-Productos | Crear un formulario de productos para agregar a una BBDD local. | - useState <br> - onChange <br> - Manejo de estados (set) |
 
 
 > [!NOTE]
